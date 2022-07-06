@@ -6,3 +6,5 @@ if x in list1:
     list1.remove(x)
     list1.insert(y,200)
 print("now the updated list as per question: \n",list1)
+
+print("now the updated again list as per question: \n",list1)
